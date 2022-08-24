@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c249adfa3ac4b254b8f00c5857bf0abb, type: 3}
+  m_Name: UpgradeTableNormal
+  m_EditorClassIdentifier: 
+  upgradeLevels:
+  - materialUpgrades:
+    - material: {fileID: 11400000, guid: 428d5eb7a0ef718418b99baf78c5f636, type: 2}
+      amount: 1
+  - materialUpgrades:
+    - material: {fileID: 11400000, guid: 428d5eb7a0ef718418b99baf78c5f636, type: 2}
+      amount: 5
+    - material: {fileID: 11400000, guid: 25b8dff8496506041a543abe06a4f281, type: 2}
+      amount: 2
+  - materialUpgrades:
+    - material: {fileID: 11400000, guid: 7c05fe7ebdc44854cb2a0b288c6f755c, type: 2}
+      amount: 10
+    - material: {fileID: 11400000, guid: 25b8dff8496506041a543abe06a4f281, type: 2}
+      amount: 5
+  - materialUpgrades:
+    - material: {fileID: 11400000, guid: 7c05fe7ebdc44854cb2a0b288c6f755c, type: 2}
+      amount: 10
+    - material: {fileID: 11400000, guid: 25b8dff8496506041a543abe06a4f281, type: 2}
+      amount: 5
+    - material: {fileID: 11400000, guid: 428d5eb7a0ef718418b99baf78c5f636, type: 2}
+      amount: 15
+  - materialUpgrades:
+    - material: {fileID: 11400000, guid: 7c05fe7ebdc44854cb2a0b288c6f755c, type: 2}
+      amount: 10
+    - material: {fileID: 11400000, guid: 25b8dff8496506041a543abe06a4f281, type: 2}
+      amount: 5
+  - materialUpgrades:
+    - material: {fileID: 11400000, guid: 7c05fe7ebdc44854cb2a0b288c6f755c, type: 2}
+      amount: 10
+    - material: {fileID: 11400000, guid: 25b8dff8496506041a543abe06a4f281, type: 2}
+      amount: 5
+  - materialUpgrades:
+    - material: {fileID: 11400000, guid: 7c05fe7ebdc44854cb2a0b288c6f755c, type: 2}
+      amount: 10
+    - material: {fileID: 11400000, guid: 25b8dff8496506041a543abe06a4f281, type: 2}
+      amount: 5
+  - materialUpgrades:
+    - material: {fileID: 11400000, guid: 7c05fe7ebdc44854cb2a0b288c6f755c, type: 2}
+      amount: 10
+    - material: {fileID: 11400000, guid: 25b8dff8496506041a543abe06a4f281, type: 2}
+      amount: 5
+  - materialUpgrades:
+    - material: {fileID: 11400000, guid: 7c05fe7ebdc44854cb2a0b288c6f755c, type: 2}
+      amount: 10
+    - material: {fileID: 11400000, guid: 25b8dff8496506041a543abe06a4f281, type: 2}
+      amount: 5
+  - materialUpgrades:
+    - material: {fileID: 11400000, guid: 7c05fe7ebdc44854cb2a0b288c6f755c, type: 2}
+      amount: 10
+    - material: {fileID: 11400000, guid: 25b8dff8496506041a543abe06a4f281, type: 2}
+      amount: 5
+  - materialUpgrades:
+    - material: {fileID: 11400000, guid: 7c05fe7ebdc44854cb2a0b288c6f755c, type: 2}
+      amount: 10
+    - material: {fileID: 11400000, guid: 25b8dff8496506041a543abe06a4f281, type: 2}
+      amount: 5
+  - materialUpgrades:
+    - material: {fileID: 11400000, guid: 7c05fe7ebdc44854cb2a0b288c6f755c, type: 2}
+      amount: 10
+    - material: {fileID: 11400000, guid: 25b8dff8496506041a543abe06a4f281, type: 2}
+      amount: 5
+  - materialUpgrades:
+    - material: {fileID: 11400000, guid: 7c05fe7ebdc44854cb2a0b288c6f755c, type: 2}
+      amount: 10
+    - material: {fileID: 11400000, guid: 25b8dff8496506041a543abe06a4f281, type: 2}
+      amount: 5
+  - materialUpgrades:
+    - material: {fileID: 11400000, guid: 7c05fe7ebdc44854cb2a0b288c6f755c, type: 2}
+      amount: 10
+    - material: {fileID: 11400000, guid: 25b8dff8496506041a543abe06a4f281, type: 2}
+      amount: 5
+  - materialUpgrades:
+    - material: {fileID: 11400000, guid: 7c05fe7ebdc44854cb2a0b288c6f755c, type: 2}
+      amount: 10
+    - material: {fileID: 11400000, guid: 25b8dff8496506041a543abe06a4f281, type: 2}
+      amount: 5
+  - materialUpgrades:
+    - material: {fileID: 11400000, guid: 7c05fe7ebdc44854cb2a0b288c6f755c, type: 2}
+      amount: 10
+    - material: {fileID: 11400000, guid: 25b8dff8496506041a543abe06a4f281, type: 2}
+      amount: 5
+  - materialUpgrades:
+    - material: {fileID: 11400000, guid: 7c05fe7ebdc44854cb2a0b288c6f755c, type: 2}
+      amount: 10
+    - material: {fileID: 11400000, guid: 25b8dff8496506041a543abe06a4f281, type: 2}
+      amount: 5
+  - materialUpgrades:
+    - material: {fileID: 11400000, guid: 7c05fe7ebdc44854cb2a0b288c6f755c, type: 2}
+      amount: 10
+    - material: {fileID: 11400000, guid: 25b8dff8496506041a543abe06a4f281, type: 2}
+      amount: 5
+  - materialUpgrades:
+    - material: {fileID: 11400000, guid: 7c05fe7ebdc44854cb2a0b288c6f755c, type: 2}
+      amount: 10
+    - material: {fileID: 11400000, guid: 25b8dff8496506041a543abe06a4f281, type: 2}
+      amount: 5
+  - materialUpgrades:
+    - material: {fileID: 11400000, guid: 7c05fe7ebdc44854cb2a0b288c6f755c, type: 2}
+      amount: 10
+    - material: {fileID: 11400000, guid: 25b8dff8496506041a543abe06a4f281, type: 2}
+      amount: 5

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c24a0338abf42114ab43ecd77dbde887, type: 3}
+  m_Name: Sunstone
+  m_EditorClassIdentifier: 
+  ID: ebfb13cd2cd9fa9448f523f0a64ed1f3
+  ItemName: Sunstone
+  Icon: {fileID: 21300000, guid: a677c42cd6f88944eb764fa65f29491b, type: 3}
+  amount: 1

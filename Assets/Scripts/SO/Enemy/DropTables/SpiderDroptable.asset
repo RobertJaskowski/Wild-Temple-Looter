@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93ccc5c1f233c064dab4bcb60f9b8716, type: 3}
+  m_Name: SpiderDroptable
+  m_EditorClassIdentifier: 
+  legendaryItemChance: 5
+  legendaryItemDrops:
+  - {fileID: 11400000, guid: 616b760cd7d3a014f82955841a2848b0, type: 2}
+  - {fileID: 11400000, guid: 607a5f19d9b193f41843081994682e72, type: 2}
+  rareItemChance: 10
+  rareItemDrops:
+  - {fileID: 11400000, guid: ed939f9e98bdc5840bc20556b5ebb2b3, type: 2}
+  - {fileID: 11400000, guid: 03e6cf6654803ce4d9d5464fc7eaac37, type: 2}
+  - {fileID: 11400000, guid: 607a5f19d9b193f41843081994682e72, type: 2}
+  - {fileID: 11400000, guid: d035bf19c0dfc0e4bbd5d0de496f2612, type: 2}
+  normalItemChance: 25
+  normalItemDrops: []
+  rareMaterialChance: 30
+  rareMaterialDrops:
+  - {fileID: 11400000, guid: 7c05fe7ebdc44854cb2a0b288c6f755c, type: 2}
+  normalMaterialChance: 60
+  normalMaterialDrops:
+  - {fileID: 11400000, guid: 25b8dff8496506041a543abe06a4f281, type: 2}
+  moneyRate: 1

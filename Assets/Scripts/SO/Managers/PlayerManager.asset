@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95ae612fa7546444ca733d0f1d3ad41b, type: 3}
+  m_Name: PlayerManager
+  m_EditorClassIdentifier: 
+  Level:
+    UseConstant: 0
+    ConstantValue: 0
+    Variable: {fileID: 11400000, guid: 941b0a7d4f8a66a44afb2d6bb1ec8645, type: 2}
+  updatePlayerLevel: {fileID: 11400000, guid: 9d4746dbaea5e9e4992c0d13990c851c, type: 2}
+  LevelProgress:
+    UseConstant: 0
+    ConstantValue: 0
+    Variable: {fileID: 11400000, guid: 7d829cd16adc8084ba2d1385497c6208, type: 2}
+  updatePlayerLevelProgress: {fileID: 11400000, guid: 0e16d5168175740468d2832287cfa295,
+    type: 2}
+  PlayerHp:
+    UseConstant: 0
+    ConstantValue: 0
+    Variable: {fileID: 11400000, guid: 12374855cfe71ab41b60c0239020234a, type: 2}
+  updatePlayerHp: {fileID: 11400000, guid: 65b30854fa959614b84608945417bfcf, type: 2}
+  Gold:
+    UseConstant: 0
+    ConstantValue: 0
+    Variable: {fileID: 11400000, guid: 373f0f09627cf15498ac3c420f8a3582, type: 2}
+  updateGoldEvent: {fileID: 11400000, guid: b2a1bcb891b4cff4cae11cd87e33be59, type: 2}
+  Gems:
+    UseConstant: 0
+    ConstantValue: 0
+    Variable: {fileID: 11400000, guid: 1f8dcfa99e221e640b92af2811d7fec5, type: 2}
+  updatePlayerGems: {fileID: 11400000, guid: ee2aadbb184d7fd4b8e9d4498d577330, type: 2}

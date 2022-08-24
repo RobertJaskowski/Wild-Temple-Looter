@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bef514e8f18fae8449edfa6ed3a1f2a3, type: 3}
+  m_Name: Dark Plain Dagger
+  m_EditorClassIdentifier: 
+  ItemName: Dark Plain Dagger
+  Icon: {fileID: 21300000, guid: b837fb0eecc4d1941a30418882c42334, type: 3}
+  EquipmentType: 0
+  ElementalType: 5
+  upgradeTable: {fileID: 11400000, guid: b59fbdfaa9f836648928ad00c0ee8475, type: 2}
+  Data:
+    Level: 0
+    LevelProgress: 0
+    Attack: 25
+    Defense: 0

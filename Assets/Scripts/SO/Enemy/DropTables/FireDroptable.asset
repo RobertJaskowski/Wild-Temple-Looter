@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93ccc5c1f233c064dab4bcb60f9b8716, type: 3}
+  m_Name: FireDroptable
+  m_EditorClassIdentifier: 
+  legendaryItemChance: 1
+  legendaryItemDrops: []
+  rareItemChance: 10
+  rareItemDrops: []
+  normalItemChance: 25
+  normalItemDrops: []
+  rareMaterialChance: 30
+  rareMaterialDrops: []
+  normalMaterialChance: 0
+  normalMaterialDrops: []
+  moneyRate: 1

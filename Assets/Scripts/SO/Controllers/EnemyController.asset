@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c38a95c0590a6342b8534a7ee227ec9, type: 3}
+  m_Name: EnemyController
+  m_EditorClassIdentifier: 
+  attackTimeMin: 1.07
+  attackTimeMax: 12.7
+  attackTimeMultiplier: 53.7
+  strenghtMin: 20.4
+  strenghtMultiplier: 50.8
+  enemyHpMin: 92
+  enemyHpMultiplier: 40.3
+  MaxEnemyHp: {fileID: 11400000, guid: 3c74a8602ee90404080d715ea36f71e4, type: 2}
+  difficulty: {fileID: 11400000, guid: cc4bd22015189e44590ded494e4d99ef, type: 2}
+  equipment: {fileID: 11400000, guid: 4b9d9c1dbd3074a44837d15df4346472, type: 2}
+  enemyDatabase: {fileID: 11400000, guid: c70853709ce160748bdb665d99b566cf, type: 2}
+  playerHp: {fileID: 11400000, guid: 12374855cfe71ab41b60c0239020234a, type: 2}
+  playerLevel: {fileID: 11400000, guid: 941b0a7d4f8a66a44afb2d6bb1ec8645, type: 2}
+  updateEnemyHpBarEvent: {fileID: 11400000, guid: 425049dbf9bd8b34daf2d3fcde2f30fa,
+    type: 2}
+  playerRuntimeHpCurrentUpdateEvent: {fileID: 11400000, guid: 4097f2ec5e5986a4cb635d6b2ef9f214,
+    type: 2}
+  normalEnemyDied: {fileID: 11400000, guid: b1c181ab0398216409a697fa219a8356, type: 2}
+  hidePlayerHpBarEvent: {fileID: 11400000, guid: 1a79090af9fcdfe4fb8103c860b3aaec,
+    type: 2}
+  showPlayerHpBarEvent: {fileID: 11400000, guid: f34fe65b8c1ef4644bb045d1e59af0a3,
+    type: 2}
+  enemyHit: {fileID: 11400000, guid: 06875b9818b36e64ea7bca0dac2bae5c, type: 2}
+  bossSpawned: {fileID: 11400000, guid: 0cdd3ae7cda173a48af4b31efd8ab879, type: 2}
+  bossDied: {fileID: 11400000, guid: 0d81fd0ade6f6e94a812b7afa02b236f, type: 2}
+  enemyAttack: {fileID: 11400000, guid: f45bd655b453ee946873fed015d3e545, type: 2}
+  hideDungeonReturnToTownButton: {fileID: 11400000, guid: 4c329e98fafa7994597956d19250764f,
+    type: 2}

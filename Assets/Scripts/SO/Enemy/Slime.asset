@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 376ec42a8cafa8648a27fa19969f53f7, type: 3}
+  m_Name: Slime
+  m_EditorClassIdentifier: 
+  Image: {fileID: 2800000, guid: 97c6dd077abb44a4fa3229d4fd3edce9, type: 3}
+  Name: Slime
+  Hp: 100
+  isBoss: 0
+  Strenght: 70
+  AttackTime: 5
+  ElementalType: 4
+  dropTable: {fileID: 11400000, guid: a6b268920100afd47a02884d55f9f97d, type: 2}
+  updateEnemyHpBarEvent: {fileID: 11400000, guid: 425049dbf9bd8b34daf2d3fcde2f30fa,
+    type: 2}
+  MaxEnemyHp: {fileID: 11400000, guid: 3c74a8602ee90404080d715ea36f71e4, type: 2}
+  difficulty: {fileID: 11400000, guid: cc4bd22015189e44590ded494e4d99ef, type: 2}
+  showPlayerHpBarEvent: {fileID: 11400000, guid: f34fe65b8c1ef4644bb045d1e59af0a3,
+    type: 2}
+  hidePlayerHpBarEvent: {fileID: 11400000, guid: 1a79090af9fcdfe4fb8103c860b3aaec,
+    type: 2}
+  playerRuntimeHpCurrentUpdateEvent: {fileID: 11400000, guid: 4097f2ec5e5986a4cb635d6b2ef9f214,
+    type: 2}
+  equipment: {fileID: 0}
